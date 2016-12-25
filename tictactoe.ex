@@ -34,7 +34,7 @@ defmodule Game do
 			{ _ , _ , :x,
 				_ , _ , :x,
 				_ , _ , :x
-			} -> :x_win
+			} -> :x_win 
 
 			{ _ , _ , :x,
 				_ , :x , _,
