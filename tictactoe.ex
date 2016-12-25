@@ -1,5 +1,5 @@
 defmodule Game do
-	def check_board(board) do
+	def check_board(board) do 
 		case board do
 			{ :x, :x, :x,
 				_ , _ , _ , # _ matches everything
